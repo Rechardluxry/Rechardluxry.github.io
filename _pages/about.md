@@ -16,8 +16,32 @@ I'm a third year undergraduate student from [Shenzhen University](https://www.sz
 [Email](1147975692@qq.com) / [Github](https://github.com/Rechardluxry) / [Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/m0_66461274?spm=1010.2135.3001.5343)
 
 
+---
+### 研究方向
+- 机器人工程
+- 控制科学与工程
+
+### 荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
 
 
+
+<!-- 
+### 项目研究
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
+
+#### 公司/学校/研究所（2017.9~至今）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
+-->
 
 
 
