@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](1147975692@qq.com) / [Github](https://github.com/Rechardluxry) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_66461274?spm=1010.2135.3001.5343)
+[Email](1147975692@qq.com) / [Github](https://github.com/Rechardluxry) / [Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/m0_66461274?spm=1010.2135.3001.5343)
 
 
 
