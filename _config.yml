@@ -21,7 +21,7 @@ repository               : "Rechardluxry/Rechardluxry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "luxuran-photo.jpg"
   name             : "卢叙燃 / Xuran Lu"
   pronouns         : # example: "she/her"  
   bio              : "深圳大学控制科学与工程硕士在读，研究与工程兴趣包括机器人导航、ROS 2、足式机器人运动控制、强化学习控制与具身系统集成。"
